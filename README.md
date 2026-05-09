@@ -57,4 +57,3 @@ Based on the analysis of price data across 2021, 2022, and 2023:
 
 ---
 
-findings can inform purchasing decisions for retailers and consumers.
